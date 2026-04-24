@@ -1,27 +1,28 @@
 <div align="center">
 <div align="left">
   
-# Hi there 👋
+# Chukwunonso
 
-I'm Chukwunonso. 
+Medical student · Neurosurgery · Data Science  
+Building at the intersection of **Computational Neurosurgery** and Machine Learning.
 
-* A Medical Student, Data Analyst
-  > Data Science Enthusiast
-* Proficient in Excel, SQL, Python:
-  > Numpy, Pandas, Matplotlib, Seaborn.
-  
-  > Django, Django Rest Framework
-* Currently learning Statistics, Power BI/Tableau.
-  
-* Open to contribute to Data Science and Medical Research Projects.
+Interested in how computational methods — modelling, ML, and data-driven tools —  
+can improve surgical decision-making and clinical outcomes in functional neurosurgery.
+
+- 🧠 Research focus: Functional & Stereotactic Neurosurgery, Brain-Computer Interface, DBS  
+- 🐍 Python · Machine Learning  
+- 📄 Published researcher in Neurosurgery  
+- 🤝 Open to collaboration in neuromodulation, BCI, and computational neurosurgical research
 
 
 
 ### Connect with me:
 <!-- SOCIAL MEDIA BADGES-->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chukwumaeze_E)](https://twitter.com/Chukwumaeze_E) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:echukwumaeze@gmail.com)](mailto:echukwumaeze@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwunonsochukwumaeze/)](https://www.linkedin.com/in/chukwunonsochukwumaeze/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukwunonsochukwumaeze@gmail.com)](mailto:chukwunonsochukwumaeze.com)
+
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwunonsochukwumaeze/)](https://www.linkedin.com/in/chukwunonsochukwumaeze/)
 
 
 <!-- NO PROFILES YET
