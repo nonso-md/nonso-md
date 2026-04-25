@@ -17,10 +17,7 @@ Interested in how computational methods can improve surgical decision-making and
 
 ### Connect with me:
 <!-- SOCIAL MEDIA BADGES-->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chukwumaeze_E)](https://twitter.com/Chukwumaeze_E) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukwunonsochukwumaeze@gmail.com)](mailto:chukwunonsochukwumaeze.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwunonsochukwumaeze/)](https://www.linkedin.com/in/chukwunonsochukwumaeze/)
-[![Medium Badge](https://img.shields.io/badge/-@Nonso-md-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nonso-md/)](https://medium.com/@nonso-md/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chukwunonsochukwumaeze) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nonso_md) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chukwunonsochukwumaeze@gmail.com)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ChukwunonsoDataScience) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nonso-md)
 
 
 <!-- NO PROFILES YET
@@ -40,7 +37,7 @@ REMEMBER TO ADD KAGGLE BADGE
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nonso-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nonso-md&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DrDev-Py&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nonso-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 ## Github Stats
