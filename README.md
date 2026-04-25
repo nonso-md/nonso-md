@@ -20,7 +20,7 @@ Interested in how computational methods can improve surgical decision-making and
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chukwumaeze_E)](https://twitter.com/Chukwumaeze_E) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukwunonsochukwumaeze@gmail.com)](mailto:chukwunonsochukwumaeze.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwunonsochukwumaeze/)](https://www.linkedin.com/in/chukwunonsochukwumaeze/)
-[![Medium Badge](https://img.shields.io/badge/-@Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nonso-md/)](https://medium.com/@nonso-md/)
+[![Medium Badge](https://img.shields.io/badge/-@Nonso-md-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nonso-md/)](https://medium.com/@nonso-md/)
 
 
 <!-- NO PROFILES YET
