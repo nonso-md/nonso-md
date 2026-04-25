@@ -17,7 +17,7 @@ Interested in how computational methods can improve surgical decision-making and
 
 ### Connect with me:
 <!-- SOCIAL MEDIA BADGES-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chukwunonsochukwumaeze) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nonso_md) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chukwunonsochukwumaeze@gmail.com)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ChukwunonsoDataScience) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nonso-md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chukwunonsochukwumaeze) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nonso_md) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chukwunonsochukwumaeze@gmail.com)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nonsomd) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nonso-md)
 
 
 <!-- NO PROFILES YET
