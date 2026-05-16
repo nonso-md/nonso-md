@@ -11,7 +11,7 @@ Interested in how computational methods can improve surgical decision-making and
 - 🧠 Research focus: Computational Neurosurgery, Brain-Computer Interface, DBS  
 - 🐍 Python · Machine Learning  
 - 📄 Published researcher in Neurosurgery
-- 🤝 Open to collaboration in neuromodulation, BCI, and computational neurosurgical research
+- 🤝 Open to collaboration in global neurosurgery, public health, neuromodulation, BCI, and computational neurosurgical research
 
 
 
